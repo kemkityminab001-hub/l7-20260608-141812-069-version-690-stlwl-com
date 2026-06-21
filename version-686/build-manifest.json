@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-02T11:03:31.902081Z",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2038,
+  "assets": [
+    "assets/original-style.css",
+    "assets/site.css",
+    "assets/site.js",
+    "assets/movies-data.js"
+  ]
+}
